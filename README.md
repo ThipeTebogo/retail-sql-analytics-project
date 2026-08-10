@@ -66,21 +66,6 @@ The schema is defined entirely in `ddl/` and built up incrementally as the proje
 
 The `analysis/` folder holds the analytical SQL scripts for this project — each one addresses a specific business question against the schema defined in `ddl/`. Browse that folder for the current set of queries.
 
-## Progress Log
-
-This project is being built incrementally — check the [commit history](https://github.com/ThipeTebogo/retail-sql-analytics-project/commits/main/) for day-by-day updates on schema design, data modeling, and new analysis added.
-
-## Key Learnings
-
-*(A short running list of concepts practiced or challenges solved — e.g., normalization decisions, window functions, indexing trade-offs.)*
-
-## Roadmap
-
-- [ ] Finalize core schema
-- [ ] Add sample/seed dataset
-- [ ] Expand analytical query library
-- [ ] Add ER diagram
-- [ ] *(add more as the project grows)*
 
 ## Contact
 
